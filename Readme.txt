@@ -46,7 +46,7 @@ La aplicación muestra la imagen de Pikachu junto con toda su información.
 
 Datos guardados
 La información del Pokémon se guarda en archivos JSON en la carpeta "pokedex":
-jsonCopy{
+json{
     "nombre": "pikachu",
     "peso": 60,
     "altura": 4,
