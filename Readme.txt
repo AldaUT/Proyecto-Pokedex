@@ -25,9 +25,7 @@ Las siguientes bibliotecas:
 
 Instalación
 
-Clona este repositorio:
-
-Copygit clone 
+Clona este repositorio: https://github.com/AldaUT/Proyecto-Pokedex.git
 
 Instala las dependencias:
 
@@ -68,19 +66,20 @@ jsonCopy{
     ],
     "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
 }
+
 Lo que he aprendido
 Durante este ejercicio he aprendido a:
 
-Llamar APIs externas utilizando la biblioteca requests
-Manejar datos en formato JSON
-Crear interfaces gráficas sencillas con Pygame
-Implementar operaciones de archivos para guardar datos
-Manejar errores y excepciones en Python
-Organizar el código en funciones para una mejor estructura
-Utilizar list comprehensions para un código más limpio
-Cargar y manipular imágenes en una aplicación
-Reproducir audio en aplicaciones Python
-Investigacion por cuenta propia para mejorar mis proyectos
+-Llamar APIs externas utilizando la biblioteca requests
+-Manejar datos en formato JSON
+-Crear interfaces gráficas sencillas con Pygame
+-Implementar operaciones de archivos para guardar datos
+-Manejar errores y excepciones en Python
+-Organizar el código en funciones para una mejor estructura
+-Utilizar list comprehensions para un código más limpio
+-Cargar y manipular imágenes en una aplicación
+-Reproducir audio en aplicaciones Python
+-Investigacion por cuenta propia para mejorar mis proyectos
 
 Próximas mejoras
 
